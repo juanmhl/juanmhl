@@ -1,28 +1,37 @@
 # Juan María Herrera-López
 
-**PhD researcher in medical robotics · Surgical AI · Human–robot collaboration**
+**Robotics Engineer & Researcher · Machine Learning · Robot Learning · Human–Robot Interaction · Medical & Surgical Robotics**
 
-I am an FPU-funded predoctoral researcher at the [Medical Robotics Lab](https://www.uma.es/medical-robotics/) of the University of Málaga. My research explores how robots can understand surgical activity, learn skills from demonstration, and combine data-driven models with symbolic knowledge to provide context-aware assistance in minimally invasive surgery.
+I am a Robotics and Mechatronics Engineer and PhD researcher at the [Medical Robotics Laboratory](https://medicalrobotics.uma.es/) of the University of Málaga, within IBIMA Plataforma BIONAND. I am currently also a visiting researcher at the [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/) at UWE Bristol.
 
-I work across the full robotics and machine-learning pipeline: multimodal and kinematic data acquisition, haptic teleoperation, dataset design, activity recognition, movement primitives, neuro-symbolic reasoning, and robot integration. My main tools include Python, C++, MATLAB, ROS/ROS 2, PyTorch, Docker, and Linux.
+I develop intelligent robotic systems that combine machine learning with robot learning, control, and structured reasoning. My work spans surgical activity recognition, learning from demonstration, trajectory generation, neuro-symbolic AI, teleoperation, and force/motion control, with a focus on systems that can move from experimental prototypes toward real-world medical robotics applications.
 
-## Research interests
+## Core areas
 
-- Surgical activity and gesture recognition
+- Robotics and autonomous systems
+- Machine learning for robotic perception and activity recognition
+- Human–robot interaction and robot learning
 - Learning from demonstration and movement primitives
+- Robot control, teleoperation, and constrained manipulation
 - Neuro-symbolic AI and task-level reasoning
-- Human–robot collaboration in minimally invasive surgery
-- Haptic teleoperation and multimodal robotic data pipelines
+- Medical and surgical robotics
+
+## Technical stack
+
+**Python · ROS / ROS 2 · PyTorch · Docker · Linux · MATLAB · C++**
+
+I also have experience with experimental validation, technical documentation, and medical-device regulatory and clinical-study processes.
 
 ## Selected public work
 
-- [Laparoscopic suture gesture recognition](https://github.com/juanmhl/uma-lapsuture-gestures-recognition) — MATLAB code for kinematic feature selection and gesture classification with MLP, HMM, and variable-order Markov models. This work led to an [IEEE Access article](https://doi.org/10.1109/ACCESS.2024.3516949).
-- [JIGSAWS PyTorch Dataset](https://github.com/juanmhl/jigsaws-pytorch-dataset) — a reusable Python package for loading the JIGSAWS surgical activity dataset in PyTorch workflows.
+- [Laparoscopic Suture Gesture Recognition](https://github.com/juanmhl/uma-lapsuture-gestures-recognition) — machine-learning methods for surgical gesture recognition from robot kinematics, associated with a [first-author IEEE Access paper](https://doi.org/10.1109/ACCESS.2024.3516949).
+- [JIGSAWS PyTorch Dataset](https://github.com/juanmhl/jigsaws-pytorch-dataset) — reusable Python tooling for loading and working with the JIGSAWS surgical activity dataset in PyTorch workflows.
+- [Barrett WAM Inverse Kinematics](https://github.com/juanmhl/barrett-wam-ik-matlab) — analytical inverse kinematics for a redundant 7-DoF Barrett WAM manipulator, developed for a cyber-physical laparoscopic robotics setup.
 
-Most of my current research repositories remain private while the work is in progress. Publications, projects, and further context are available on my website.
+Most of my current research repositories remain private while work is in progress. More projects, publications, and context are available on my personal website.
 
 ## Links
 
-[Website](https://juanmhl.github.io) · [Google Scholar](https://scholar.google.com/citations?user=DNTMQGAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-3692-3088) · [LinkedIn](https://www.linkedin.com/in/juanmhl/) · [ResearchGate](https://www.researchgate.net/profile/Juan-Herrera-Lopez) · [CV](https://juanmhl.github.io/cv.pdf)
+[Website](https://juanmhl.github.io) · [LinkedIn](https://www.linkedin.com/in/juanmhl/) · [Google Scholar](https://scholar.google.com/citations?user=DNTMQGAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-3692-3088) · [ResearchGate](https://www.researchgate.net/profile/Juan-Herrera-Lopez) · [CV](https://juanmhl.github.io/cv.pdf)
 
-I am open to research collaborations and R&D opportunities at the intersection of robotics, applied machine learning, and intelligent systems.
+I am open to collaborations and R&D opportunities in robotics, autonomous systems, applied machine learning, and intelligent robotic systems.
